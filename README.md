@@ -7,10 +7,7 @@
 I build production-ready systems that connect  
 **business workflows, AI models, APIs, databases and communication platforms.**
 
-<img
-  src="https://komarev.com/ghpvc/?username=Andromedas47&label=Profile%20Views&style=flat-square"
-  alt="Profile views"
-/>
+
 
 </div>
 
